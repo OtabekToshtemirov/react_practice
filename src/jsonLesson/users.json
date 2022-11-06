@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Otabek",
+        "age":24,
+        "isStudent":true,
+        "Country":"Uzbekistan",
+        "phone":998332280498
+    },
+    {
+        "name":"Ozodbek",
+        "age":18,
+        "isStudent":true,
+        "Country":"Uzbekistan",
+        "phone":998332280498
+    },
+    {
+        "name":"Eldor",
+        "age":20,
+        "isStudent":false,
+        "Country":"Uzbekistan",
+        "phone":998332280498
+    }
+]
