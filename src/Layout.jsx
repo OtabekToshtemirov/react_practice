@@ -1,5 +1,9 @@
 import { Outlet, NavLink } from 'react-router-dom';
+<<<<<<< HEAD
 
+=======
+// Bu Layout package
+>>>>>>> 2f64b9fce2b7a16387fdcc6b2e2dfb8bd4a39ddb
 
 
 
@@ -32,4 +36,8 @@ const Layout = () => {
       </>
     );
   };
+<<<<<<< HEAD
   export default Layout;
+=======
+  export default Layout;
+>>>>>>> 2f64b9fce2b7a16387fdcc6b2e2dfb8bd4a39ddb

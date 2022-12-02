@@ -15,11 +15,17 @@
     "react-loading-skeleton": "^3.1.0",
     "react-router": "^6.4.3",
     "react-router-dom": "^6.4.2",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1",
     "recharts": "^2.1.16",
     "sass": "^1.55.0",
     "vercel": "^28.4.17",
     "yarn": "^1.22.19"
+=======
+    "react-scripts": "5.0.1",
+    "recharts": "^2.1.16",
+    "sass": "^1.55.0"
+>>>>>>> 2f64b9fce2b7a16387fdcc6b2e2dfb8bd4a39ddb
   },
   "scripts": {
     "start": "react-scripts start",
